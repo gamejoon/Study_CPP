@@ -1,20 +1,4 @@
 #include <iostream>
-/*
-int BoxVolume(int length, int width, int heigth)
-{
-	return length * width * heigth;
-}
-
-int BoxVolume(int length, int width)
-{
-	return length * width * 1;
-}
-
-int BoxVolume(int length)
-{
-	return length * 1 * 1;
-}
-*/
 
 int BoxVolume(int, int, int);
 int BoxVolume(int, int);
