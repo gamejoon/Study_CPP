@@ -1,3 +1,5 @@
+#include <iostream>
+
 inline int SQUARE(int x)
 {
 	return x * x;
@@ -6,9 +8,6 @@ inline int SQUARE(int x)
 // 컴파일러가 함수의 인라인화를 결정한다.
 //
 // inline 선언이 되어도 인라인처리 되지 않을 수 있고, inline 선언이 없어도 인라인처리 될 수 있다.
-
-
-#include <iostream>
 
 int main(void)
 {

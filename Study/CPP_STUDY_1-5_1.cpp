@@ -23,3 +23,5 @@ int main(void)
 	ProgComImpl::SimpleFunc(); // 이름공간 ProgComImpl에 정의된 SimpleFunc의 호출
 	return 0;
 }
+
+// :: 범위지정연산자(scoope resolution operator)라고 한다.

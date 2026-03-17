@@ -43,38 +43,35 @@
     <Filter Include="소스 파일\CH1\1-2\test">
       <UniqueIdentifier>{4998c443-2b48-4a61-b583-dc064246f64e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\CH1\1-3\ex">
+      <UniqueIdentifier>{d4730031-cc99-43c4-a232-288d75cd05ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CH1\1-3\test">
+      <UniqueIdentifier>{a643acd9-b168-46e2-b87d-c1f1e8136289}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CH1\1-4\ex">
+      <UniqueIdentifier>{a3f4bac3-7af0-425a-8117-1a7d4e7293eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CH1\1-4\test">
+      <UniqueIdentifier>{946df8be-98bc-4a37-9db5-4725e8d42dc5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CH1\1-5\ex">
+      <UniqueIdentifier>{54c1fcb1-4bd5-45dd-94ab-ed515467e0b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CH1\1-5\test">
+      <UniqueIdentifier>{f0b4e9ad-005b-432c-ba34-81c9abcc6404}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CH1\1-5\test\CPP_STUDY_1-5_TEST1">
+      <UniqueIdentifier>{6eb113e7-94c2-4cbb-85cc-749b58387da9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CH1\1-5\test\CPP_STUDY_1-5_TEST1\답안지">
+      <UniqueIdentifier>{61deb62d-a967-4f4f-b280-355a5c4dd936}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CH1\1-5\test\CPP_STUDY_1-5_TEST1\답안 작성">
+      <UniqueIdentifier>{6b94c769-a6b5-4b73-a139-39ea23f10206}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CPP_STUDY_1-3_1.cpp">
-      <Filter>소스 파일\CH1\1-3</Filter>
-    </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-4_1.cpp">
-      <Filter>소스 파일\CH1\1-4</Filter>
-    </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-4_2.cpp">
-      <Filter>소스 파일\CH1\1-4</Filter>
-    </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-5_1.cpp">
-      <Filter>소스 파일\CH1\1-5</Filter>
-    </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-5_2.cpp">
-      <Filter>소스 파일\CH1\1-5</Filter>
-    </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-5_3.cpp">
-      <Filter>소스 파일\CH1\1-5</Filter>
-    </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-5_4.cpp">
-      <Filter>소스 파일\CH1\1-5</Filter>
-    </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-5_5.cpp">
-      <Filter>소스 파일\CH1\1-5</Filter>
-    </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-5_6.cpp">
-      <Filter>소스 파일\CH1\1-5</Filter>
-    </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-5_7.cpp">
-      <Filter>소스 파일\CH1\1-5</Filter>
-    </ClCompile>
     <ClCompile Include="CPP_STUDY_1-1_TEST1.cpp">
       <Filter>소스 파일\CH1\1-1\test</Filter>
     </ClCompile>
@@ -108,5 +105,70 @@
     <ClCompile Include="CPP_STUDY_1-2_TEST1.cpp">
       <Filter>소스 파일\CH1\1-2\test</Filter>
     </ClCompile>
+    <ClCompile Include="CPP_STUDY_1-3_1.cpp">
+      <Filter>소스 파일\CH1\1-3\ex</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP_STUDY_1-3_2.cpp">
+      <Filter>소스 파일\CH1\1-3\ex</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP_STUDY_1-3_TEST1.CPP">
+      <Filter>소스 파일\CH1\1-3\test</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP_STUDY_1-3_TEST2.txt">
+      <Filter>소스 파일\CH1\1-3\test</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP_STUDY_1-4_1.cpp">
+      <Filter>소스 파일\CH1\1-4\ex</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP_STUDY_1-4_2.cpp">
+      <Filter>소스 파일\CH1\1-4\ex</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP_STUDY_1-5_1.cpp">
+      <Filter>소스 파일\CH1\1-5\ex</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP_STUDY_1-5_2.cpp">
+      <Filter>소스 파일\CH1\1-5\ex</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP_STUDY_1-5_3.cpp">
+      <Filter>소스 파일\CH1\1-5\ex</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP_STUDY_1-5_4.cpp">
+      <Filter>소스 파일\CH1\1-5\ex</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP_STUDY_1-5_5.cpp">
+      <Filter>소스 파일\CH1\1-5\ex</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP_STUDY_1-5_6.cpp">
+      <Filter>소스 파일\CH1\1-5\ex</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP_STUDY_1-5_7.cpp">
+      <Filter>소스 파일\CH1\1-5\ex</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleFunc.cpp">
+      <Filter>소스 파일\CH1\1-5\test\CPP_STUDY_1-5_TEST1\답안지</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleMain.cpp">
+      <Filter>소스 파일\CH1\1-5\test\CPP_STUDY_1-5_TEST1\답안지</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일\CH1\1-5\test\CPP_STUDY_1-5_TEST1\답안 작성</Filter>
+    </ClCompile>
+    <ClCompile Include="NameSp2.cpp">
+      <Filter>소스 파일\CH1\1-5\test\CPP_STUDY_1-5_TEST1\답안 작성</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP_STUDY_1-5_8.cpp">
+      <Filter>소스 파일\CH1\1-5\ex</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP_STUDY_1-5_9.cpp">
+      <Filter>소스 파일\CH1\1-5\ex</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SimpleFunc.h">
+      <Filter>소스 파일\CH1\1-5\test\CPP_STUDY_1-5_TEST1\답안지</Filter>
+    </ClInclude>
+    <ClInclude Include="NameSp2.h">
+      <Filter>소스 파일\CH1\1-5\test\CPP_STUDY_1-5_TEST1\답안 작성</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
