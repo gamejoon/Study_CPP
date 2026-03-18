@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF8EC490-4C8D-4914-8DC0-E7626E2D63F8}|Study.vcxproj|C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\CPP_STUDY_1-5_ANSWER1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BF8EC490-4C8D-4914-8DC0-E7626E2D63F8}|Study.vcxproj|solutionrelative:CPP_STUDY_1-5_ANSWER1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BF8EC490-4C8D-4914-8DC0-E7626E2D63F8}|Study.vcxproj|C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\CPP_STUDY_02-1_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF8EC490-4C8D-4914-8DC0-E7626E2D63F8}|Study.vcxproj|solutionrelative:CPP_STUDY_02-1_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF8EC490-4C8D-4914-8DC0-E7626E2D63F8}|Study.vcxproj|C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\CPP_STUDY_1-6_TEST1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BF8EC490-4C8D-4914-8DC0-E7626E2D63F8}|Study.vcxproj|solutionrelative:CPP_STUDY_1-6_TEST1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BF8EC490-4C8D-4914-8DC0-E7626E2D63F8}|Study.vcxproj|C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\CPP_STUDY_02-1_EX1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF8EC490-4C8D-4914-8DC0-E7626E2D63F8}|Study.vcxproj|solutionrelative:CPP_STUDY_02-1_EX1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CPP_STUDY_1-6_TEST1.cpp",
-              "DocumentMoniker": "C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\CPP_STUDY_1-6_TEST1.cpp",
-              "RelativeDocumentMoniker": "CPP_STUDY_1-6_TEST1.cpp",
-              "ToolTip": "C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\CPP_STUDY_1-6_TEST1.cpp",
-              "RelativeToolTip": "CPP_STUDY_1-6_TEST1.cpp",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEAAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CPP_STUDY_02-1_2.cpp",
+              "DocumentMoniker": "C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\CPP_STUDY_02-1_2.cpp",
+              "RelativeDocumentMoniker": "CPP_STUDY_02-1_2.cpp",
+              "ToolTip": "C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\CPP_STUDY_02-1_2.cpp",
+              "RelativeToolTip": "CPP_STUDY_02-1_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-17T12:43:06.476Z",
+              "WhenOpened": "2026-03-18T03:14:15.817Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CPP_STUDY_1-5_ANSWER1.cpp",
-              "DocumentMoniker": "C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\CPP_STUDY_1-5_ANSWER1.cpp",
-              "RelativeDocumentMoniker": "CPP_STUDY_1-5_ANSWER1.cpp",
-              "ToolTip": "C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\CPP_STUDY_1-5_ANSWER1.cpp",
-              "RelativeToolTip": "CPP_STUDY_1-5_ANSWER1.cpp",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAAAGEAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CPP_STUDY_02-1_EX1.cpp",
+              "DocumentMoniker": "C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\CPP_STUDY_02-1_EX1.cpp",
+              "RelativeDocumentMoniker": "CPP_STUDY_02-1_EX1.cpp",
+              "ToolTip": "C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\CPP_STUDY_02-1_EX1.cpp",
+              "RelativeToolTip": "CPP_STUDY_02-1_EX1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-17T12:33:10.479Z",
+              "WhenOpened": "2026-03-18T03:00:52.704Z",
               "EditorCaption": ""
             }
           ]

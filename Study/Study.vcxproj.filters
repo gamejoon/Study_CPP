@@ -100,6 +100,27 @@
     <Filter Include="소스 파일\CH1\1-6\Test\Correct Answer">
       <UniqueIdentifier>{61113c46-6e2d-4252-bdfb-45aab70ebb30}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\CH2">
+      <UniqueIdentifier>{7772eaa8-aa96-452d-8a29-58144231021a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CH2\02-1">
+      <UniqueIdentifier>{e7a2d870-9835-4311-b8fb-50c725086132}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CH2\02-2">
+      <UniqueIdentifier>{9f50365e-ec24-4341-9dec-3b7fc4b42a23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CH2\02-2\Ex">
+      <UniqueIdentifier>{bf0c0782-e4ac-48cc-8681-70258c37da96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CH2\02-1\Test">
+      <UniqueIdentifier>{cb0013ba-8bda-4e35-bb2c-0a91ebf2b220}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CH2\02-1\Test\My Answer">
+      <UniqueIdentifier>{9c6868cc-a011-4f6c-9da2-a15df6387d47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CH2\02-1\Test\Correct Answer">
+      <UniqueIdentifier>{45843360-8267-4140-909a-516c566dc8e5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CPP_STUDY_1-1_1.cpp">
@@ -216,6 +237,21 @@
     <ClCompile Include="CPP_STUDY_1-5_ANSWER1.cpp">
       <Filter>소스 파일\CH1\1-6\Test\Correct Answer</Filter>
     </ClCompile>
+    <ClCompile Include="CPP_STUDY_02-2_EX1.cpp">
+      <Filter>소스 파일\CH2\02-2\Ex</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP_STUDY_02-2_EX2.cpp">
+      <Filter>소스 파일\CH2\02-2\Ex</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP_STUDY_02-1_TEST2.txt">
+      <Filter>소스 파일\CH2\02-1\Test\My Answer</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP_STUDY_02-1_TEST3.cpp">
+      <Filter>소스 파일\CH2\02-1\Test\My Answer</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP_STUDY_02-1_ANSWER3.cpp">
+      <Filter>소스 파일\CH2\02-1\Test\Correct Answer</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SimpleFunc.h">
@@ -228,6 +264,15 @@
   <ItemGroup>
     <Text Include="CPP_STUDY_1-3_ANSWER2.txt">
       <Filter>소스 파일\CH1\1-3\Test\Correct Answer</Filter>
+    </Text>
+    <Text Include="CPP_STUDY_02-1_TEST1.txt">
+      <Filter>소스 파일\CH2\02-1\Test\My Answer</Filter>
+    </Text>
+    <Text Include="CPP_STUDY_02-1_ANSWER1.txt">
+      <Filter>소스 파일\CH2\02-1\Test\Correct Answer</Filter>
+    </Text>
+    <Text Include="CPP_STUDY_02-1_ANSWER2.txt">
+      <Filter>소스 파일\CH2\02-1\Test\Correct Answer</Filter>
     </Text>
   </ItemGroup>
 </Project>
