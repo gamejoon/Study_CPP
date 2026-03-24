@@ -140,109 +140,139 @@
     <ClCompile Include="CPP_STUDY_02-2_EX1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-1_1.cpp">
+    <ClCompile Include="CPP_STUDY_01-1_EX1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-1_2.cpp">
+    <ClCompile Include="CPP_STUDY_01-1_EX2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-1_3.cpp">
+    <ClCompile Include="CPP_STUDY_01-1_EX3.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-1_4.cpp">
+    <ClCompile Include="CPP_STUDY_01-1_EX4.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-1_ANSWER1.cpp">
+    <ClCompile Include="CPP_STUDY_01-1_ANSWER1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-1_ANSWER2.cpp">
+    <ClCompile Include="CPP_STUDY_01-1_ANSWER2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-1_ANSWER3.cpp">
+    <ClCompile Include="CPP_STUDY_01-1_ANSWER3.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-1_ANSWER4.cpp">
+    <ClCompile Include="CPP_STUDY_01-1_ANSWER4.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-1_TEST1.cpp">
+    <ClCompile Include="CPP_STUDY_01-1_TEST1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-1_TEST3.cpp">
+    <ClCompile Include="CPP_STUDY_01-1_TEST3.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-1_TEST4.cpp">
+    <ClCompile Include="CPP_STUDY_01-1_TEST4.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-2_1.cpp">
+    <ClCompile Include="CPP_STUDY_01-2_EX1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-2_2.cpp">
+    <ClCompile Include="CPP_STUDY_01-2_EX2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-2_ANSWER1.cpp">
+    <ClCompile Include="CPP_STUDY_01-2_ANSWER1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-2_TEST1.cpp">
+    <ClCompile Include="CPP_STUDY_01-2_TEST1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-3_1.cpp">
+    <ClCompile Include="CPP_STUDY_01-3_EX1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-3_2.cpp">
+    <ClCompile Include="CPP_STUDY_01-3_EX2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-3_ANSWER1.cpp">
+    <ClCompile Include="CPP_STUDY_01-3_ANSWER1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-3_TEST1.CPP">
+    <ClCompile Include="CPP_STUDY_01-3_TEST1.CPP">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-3_TEST2.txt">
+    <ClCompile Include="CPP_STUDY_01-3_TEST2.txt">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-4_1.cpp">
+    <ClCompile Include="CPP_STUDY_01-4_EX1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-4_2.cpp">
+    <ClCompile Include="CPP_STUDY_01-4_EX2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-5_1.cpp">
+    <ClCompile Include="CPP_STUDY_01-5_EX1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-5_2.cpp">
+    <ClCompile Include="CPP_STUDY_01-5_EX2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-5_3.cpp">
+    <ClCompile Include="CPP_STUDY_01-5_EX3.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-5_4.cpp">
+    <ClCompile Include="CPP_STUDY_01-5_EX4.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-5_5.cpp">
+    <ClCompile Include="CPP_STUDY_01-5_EX5.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-5_6.cpp">
+    <ClCompile Include="CPP_STUDY_01-5_EX6.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-5_7.cpp">
+    <ClCompile Include="CPP_STUDY_01-5_EX7.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-1_TEST2.cpp">
+    <ClCompile Include="CPP_STUDY_01-1_TEST2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-5_8.cpp">
+    <ClCompile Include="CPP_STUDY_01-5_EX8.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-5_9.cpp">
+    <ClCompile Include="CPP_STUDY_01-5_EX9.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-5_ANSWER1.cpp">
+    <ClCompile Include="CPP_STUDY_01-5_ANSWER1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="CPP_STUDY_1-6_TEST1.cpp">
+    <ClCompile Include="CPP_STUDY_01-6_TEST1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="CPP_STUDY_02-1_ANSWER3.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="CPP_STUDY_02-3_EX1.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="CPP_STUDY_02-3_EX2.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="CPP_STUDY_02-3_EX3.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Cpp_Study_02-4_Answer1.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Cpp_Study_02-4_Answer2.txt">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Cpp_Study_02-4_Answer3.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Cpp_Study_02-4_Ex1.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Cpp_Study_02-4_Test1.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Cpp_Study_02-4_Test2.txt">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Cpp_Study_02-4_Test3.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="main.cpp">
@@ -276,7 +306,7 @@
     <Text Include="CPP_STUDY_02-1_TEST1.txt">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </Text>
-    <Text Include="CPP_STUDY_1-3_ANSWER2.txt">
+    <Text Include="CPP_STUDY_01-3_ANSWER2.txt">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </Text>
   </ItemGroup>

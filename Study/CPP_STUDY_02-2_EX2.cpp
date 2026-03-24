@@ -16,7 +16,7 @@ int main(void)
 	cout << "Input number: ";
 	cin >> num;
 
-	isPos = IsPositive(num); // ""
+	isPos = IsPositive(num); // """
 	if (isPos)
 		cout << "Positive number" << endl;
 	else
