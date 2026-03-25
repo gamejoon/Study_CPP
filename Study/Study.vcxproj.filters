@@ -303,6 +303,15 @@
     <ClCompile Include="Cpp_Study_02-4_Answer3.cpp">
       <Filter>소스 파일\Ch02\02-4\Test\Correct Answer</Filter>
     </ClCompile>
+    <ClCompile Include="Cpp_Study_02-4_Ex2.cpp">
+      <Filter>소스 파일\Ch02\02-4\Ex</Filter>
+    </ClCompile>
+    <ClCompile Include="Cpp_Study_02-4_Ex3.cpp">
+      <Filter>소스 파일\Ch02\02-4\Ex</Filter>
+    </ClCompile>
+    <ClCompile Include="Cpp_Study_02-4_Ex4.cpp">
+      <Filter>소스 파일\Ch02\02-4\Ex</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SimpleFunc.h">
