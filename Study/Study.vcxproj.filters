@@ -142,6 +142,21 @@
     <Filter Include="소스 파일\Ch02\02-4\Test\Correct Answer">
       <UniqueIdentifier>{dbeaa352-c72b-4442-b540-79e588c38de1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Ch02\02-5">
+      <UniqueIdentifier>{24554ab3-18e7-4351-813a-d0a895c989db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Ch02\02-5\Ex">
+      <UniqueIdentifier>{db8a8c2b-4b7c-4824-a365-dc0ce2e2b622}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Ch02\02-5\Test">
+      <UniqueIdentifier>{d41620f0-4888-45a6-864d-8055e5cfc8e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Ch02\02-5\Test\My Answer">
+      <UniqueIdentifier>{e83feb37-154a-4996-90b4-0c7c1fcacfb6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Ch02\02-5\Test\Correct Answer">
+      <UniqueIdentifier>{a4959e63-53e9-413f-970d-8f269c728715}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CPP_STUDY_01-1_EX1.cpp">
@@ -311,6 +326,27 @@
     </ClCompile>
     <ClCompile Include="Cpp_Study_02-4_Ex4.cpp">
       <Filter>소스 파일\Ch02\02-4\Ex</Filter>
+    </ClCompile>
+    <ClCompile Include="Cpp_Study_02-4_Test4.cpp">
+      <Filter>소스 파일\Ch02\02-4\Test\My Answer</Filter>
+    </ClCompile>
+    <ClCompile Include="Cpp_Study_02-4_Answer4.cpp">
+      <Filter>소스 파일\Ch02\02-4\Test\Correct Answer</Filter>
+    </ClCompile>
+    <ClCompile Include="Cpp_Study_02-5_Ex1.cpp">
+      <Filter>소스 파일\Ch02\02-5\Ex</Filter>
+    </ClCompile>
+    <ClCompile Include="Cpp_Study_02-5_Ex2.cpp">
+      <Filter>소스 파일\Ch02\02-5\Ex</Filter>
+    </ClCompile>
+    <ClCompile Include="Cpp_Study_02-5_Ex3.cpp">
+      <Filter>소스 파일\Ch02\02-5\Ex</Filter>
+    </ClCompile>
+    <ClCompile Include="Cpp_Study_02-5_Test1.cpp">
+      <Filter>소스 파일\Ch02\02-5\Test\My Answer</Filter>
+    </ClCompile>
+    <ClCompile Include="Cpp_Study_02-5_Answer1.cpp">
+      <Filter>소스 파일\Ch02\02-5\Test\Correct Answer</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
