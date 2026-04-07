@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF8EC490-4C8D-4914-8DC0-E7626E2D63F8}|Study.vcxproj|C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\Cpp_Study_02-5_Test1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BF8EC490-4C8D-4914-8DC0-E7626E2D63F8}|Study.vcxproj|solutionrelative:Cpp_Study_02-5_Test1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BF8EC490-4C8D-4914-8DC0-E7626E2D63F8}|Study.vcxproj|C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\Cpp_Study_02-6_Answer2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF8EC490-4C8D-4914-8DC0-E7626E2D63F8}|Study.vcxproj|solutionrelative:Cpp_Study_02-6_Answer2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF8EC490-4C8D-4914-8DC0-E7626E2D63F8}|Study.vcxproj|C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\Cpp_Study_02-5_Answer1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BF8EC490-4C8D-4914-8DC0-E7626E2D63F8}|Study.vcxproj|solutionrelative:Cpp_Study_02-5_Answer1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BF8EC490-4C8D-4914-8DC0-E7626E2D63F8}|Study.vcxproj|C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\Cpp_Study_02-6_Test2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF8EC490-4C8D-4914-8DC0-E7626E2D63F8}|Study.vcxproj|solutionrelative:Cpp_Study_02-6_Test2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF8EC490-4C8D-4914-8DC0-E7626E2D63F8}|Study.vcxproj|C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\Cpp_Study_02-5_Ex3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BF8EC490-4C8D-4914-8DC0-E7626E2D63F8}|Study.vcxproj|solutionrelative:Cpp_Study_02-5_Ex3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF8EC490-4C8D-4914-8DC0-E7626E2D63F8}|Study.vcxproj|C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\Cpp_Study_02-5_Ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BF8EC490-4C8D-4914-8DC0-E7626E2D63F8}|Study.vcxproj|solutionrelative:Cpp_Study_02-5_Ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF8EC490-4C8D-4914-8DC0-E7626E2D63F8}|Study.vcxproj|C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\Cpp_Study_02-5_Ex1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BF8EC490-4C8D-4914-8DC0-E7626E2D63F8}|Study.vcxproj|solutionrelative:Cpp_Study_02-5_Ex1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BF8EC490-4C8D-4914-8DC0-E7626E2D63F8}|Study.vcxproj|C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\Cpp_Study_02-6_Answer1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF8EC490-4C8D-4914-8DC0-E7626E2D63F8}|Study.vcxproj|solutionrelative:Cpp_Study_02-6_Answer1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cpp_Study_02-5_Answer1.cpp",
-              "DocumentMoniker": "C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\Cpp_Study_02-5_Answer1.cpp",
-              "RelativeDocumentMoniker": "Cpp_Study_02-5_Answer1.cpp",
-              "ToolTip": "C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\Cpp_Study_02-5_Answer1.cpp",
-              "RelativeToolTip": "Cpp_Study_02-5_Answer1.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwCEAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Cpp_Study_02-6_Answer2.cpp",
+              "DocumentMoniker": "C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\Cpp_Study_02-6_Answer2.cpp",
+              "RelativeDocumentMoniker": "Cpp_Study_02-6_Answer2.cpp",
+              "ToolTip": "C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\Cpp_Study_02-6_Answer2.cpp",
+              "RelativeToolTip": "Cpp_Study_02-6_Answer2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-31T10:15:19.692Z",
+              "WhenOpened": "2026-04-07T12:42:17.386Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Cpp_Study_02-5_Test1.cpp",
-              "DocumentMoniker": "C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\Cpp_Study_02-5_Test1.cpp",
-              "RelativeDocumentMoniker": "Cpp_Study_02-5_Test1.cpp",
-              "ToolTip": "C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\Cpp_Study_02-5_Test1.cpp",
-              "RelativeToolTip": "Cpp_Study_02-5_Test1.cpp",
-              "ViewState": "AgIAABQAAAAAAAAAAAAqwBsAAAA6AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Cpp_Study_02-6_Test2.cpp",
+              "DocumentMoniker": "C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\Cpp_Study_02-6_Test2.cpp",
+              "RelativeDocumentMoniker": "Cpp_Study_02-6_Test2.cpp",
+              "ToolTip": "C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\Cpp_Study_02-6_Test2.cpp",
+              "RelativeToolTip": "Cpp_Study_02-6_Test2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-31T10:03:59.553Z",
+              "WhenOpened": "2026-04-07T12:36:04.451Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Cpp_Study_02-5_Ex3.cpp",
-              "DocumentMoniker": "C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\Cpp_Study_02-5_Ex3.cpp",
-              "RelativeDocumentMoniker": "Cpp_Study_02-5_Ex3.cpp",
-              "ToolTip": "C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\Cpp_Study_02-5_Ex3.cpp",
-              "RelativeToolTip": "Cpp_Study_02-5_Ex3.cpp",
-              "ViewState": "AgIAABcAAAAAAAAAAAAqwC4AAABEAAAAAAAAAA==",
+              "Title": "Cpp_Study_02-6_Answer1.cpp",
+              "DocumentMoniker": "C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\Cpp_Study_02-6_Answer1.cpp",
+              "RelativeDocumentMoniker": "Cpp_Study_02-6_Answer1.cpp",
+              "ToolTip": "C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\Cpp_Study_02-6_Answer1.cpp",
+              "RelativeToolTip": "Cpp_Study_02-6_Answer1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-31T09:49:26.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Cpp_Study_02-5_Ex2.cpp",
-              "DocumentMoniker": "C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\Cpp_Study_02-5_Ex2.cpp",
-              "RelativeDocumentMoniker": "Cpp_Study_02-5_Ex2.cpp",
-              "ToolTip": "C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\Cpp_Study_02-5_Ex2.cpp",
-              "RelativeToolTip": "Cpp_Study_02-5_Ex2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-31T09:38:44.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Cpp_Study_02-5_Ex1.cpp",
-              "DocumentMoniker": "C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\Cpp_Study_02-5_Ex1.cpp",
-              "RelativeDocumentMoniker": "Cpp_Study_02-5_Ex1.cpp",
-              "ToolTip": "C:\\UserSpace\\Programming\\CPP\\Study_CPP\\Study\\Cpp_Study_02-5_Ex1.cpp",
-              "RelativeToolTip": "Cpp_Study_02-5_Ex1.cpp",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCsAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-31T09:24:17.944Z",
+              "WhenOpened": "2026-04-07T12:25:16.089Z",
               "EditorCaption": ""
             }
           ]
